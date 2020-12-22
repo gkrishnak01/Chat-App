@@ -1,4 +1,4 @@
-Fill in the firebase.json before execution
+Fill in the /src/firebase.js before execution
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
